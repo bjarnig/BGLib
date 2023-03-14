@@ -1,6 +1,4 @@
 # Ignore Mac system files
 .DS_store
 
-# Ignore node_modules folder
-_
-
+ugens/
