@@ -1,6 +1,6 @@
 # BGLib
 
-My SuperCollider library: pseudo-UGens, classes for my pieces, and language-side utilities.
+SuperCollider utilities: pseudo-UGens, classes for my pieces, and language-side utilities.
 
 ## Install
 
